@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="Sumant-Filter-Bot Logo">
+  <img src="https://envs.sh/qDd.jpg" alt="Sumant-Filter-Bot Logo">
 </p>
 <h1 align="center">
   Sumant FILTER BOT
@@ -32,7 +32,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://t.me/moviesSupportgroup'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/J5tiWdc_AWM)
 
