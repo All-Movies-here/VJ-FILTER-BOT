@@ -5,7 +5,7 @@
   Sumant FILTER BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Sumant+Filter+Bot!)
 </p>
 
 ## Main Feature 
